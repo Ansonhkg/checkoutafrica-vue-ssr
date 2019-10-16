@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "10.x"
+  },
   "name": "nuxtjs",
   "version": "1.0.0",
   "description": "My astonishing Nuxt.js project",
